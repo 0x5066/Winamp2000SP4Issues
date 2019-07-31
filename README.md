@@ -2,6 +2,11 @@
 i guess this is where the issues of the skin go here
 
 
+# v1.03.3 (Upcoming)
+What's New?
+
+- Fixed: titlebar switcher not working in the equalizer when it was in winshade mode
+
 # v1.03.2
 Thanks to Victhor pointing most of these issues out
 What's New?
@@ -19,9 +24,9 @@ Playlist Editor being unable to emulate windows behaviour, thanks nullsoft, real
 Modern Skin being unable to tile graphics, making it impossible to properly replicate the checkerboard effect found within Windows 7 and below when running Windows Classic
 
 # v1.03.1
-What's new?
+What's New?
 
 Fixed: annoying black color that appeared whenever something used the alternate coloring thing, it was apparent when using WACUP playlists in the Media Library
 
-# v1.03
+# v1.03.0
 Initial release.
