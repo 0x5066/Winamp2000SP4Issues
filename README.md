@@ -6,6 +6,7 @@ i guess this is where the issues of the skin go here
 What's New?
 
 - Fixed: titlebar switcher not working in the equalizer when it was in winshade mode
+- Misc: Name change
 
 # v1.03.2
 Thanks to Victhor pointing most of these issues out
