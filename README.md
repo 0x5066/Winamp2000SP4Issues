@@ -12,6 +12,7 @@ What's New?
 Known issues:
 
 window resizers interfere with the titlebar too much, unintentionally resizing the window, when only wanting to move it around
+main window is not aware whether or not it is run in WACUP or not
 
 # v1.03.2
 Thanks to Victhor pointing most of these issues out
