@@ -6,6 +6,7 @@ i guess this is where the issues of the skin go here
 What's New?
 
 - Fixed: titlebar switcher not working in the equalizer when it was in winshade mode
+- Fixed: repositioned the bottom playlist info display
 - Misc: Name change
 
 Known issues:
