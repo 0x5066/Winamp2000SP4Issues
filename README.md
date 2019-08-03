@@ -7,6 +7,9 @@ What's New?
 
 - Fixed: titlebar switcher not working in the equalizer when it was in winshade mode
 - Fixed: repositioned the bottom playlist info display
+- Fixed: ctrl + w not working in pledit, was fixed by updating skin.xml from victhor's skin.xml file found within Winamp Classic Modern v1.03
+- Fixed: ctrl + v not working in the main window, was fixed by updating skin.xml from victhor's skin.xml file found within Winamp Classic Modern v1.03
+- Fixed: double click on EQ does not switch to shade as it should, was fixed by updating skin.xml from victhor's skin.xml file found within Winamp Classic Modern v1.03
 - Misc: Name change
 
 Known issues:
