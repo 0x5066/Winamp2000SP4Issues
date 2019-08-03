@@ -1,5 +1,5 @@
 # WindowsClassicModernIssues
-i guess this is where the issues of the skin go here
+i guess this is where the issues of the skin go here and its changelog
 
 
 # v1.03.3 (Upcoming)
