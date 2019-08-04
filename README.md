@@ -1,4 +1,4 @@
-# WindowsClassicModernIssues
+# Winamp 2000 SP4 Issues
 i guess this is where the issues of the skin go here and its changelog
 
 # v1.03.4 Upcoming
