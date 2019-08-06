@@ -1,7 +1,7 @@
 # Winamp 2000 SP4 Issues
 i guess this is where the issues of the skin go here and its changelog
 
-# 1.03.??? Upcoming (Far future)
+# v1.03.??? Upcoming (Far future)
 What's New?
 
 - Added: Gammagroups that actually represent what Windows once had to offer with Windows Classic
