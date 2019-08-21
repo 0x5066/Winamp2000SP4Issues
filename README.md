@@ -10,6 +10,7 @@ What's New?
 What's New?
 
 - Fixed: Resized the components by one pixel due to miscalculations
+- Fixed: Resized the volume sliders (thanks Victhor!)
 
 Known issues:
 
