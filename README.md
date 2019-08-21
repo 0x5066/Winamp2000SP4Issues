@@ -9,7 +9,14 @@ What's New?
 # v1.03.4 Upcoming
 What's New?
 
-nothing.
+- Fixed: Resized the components by one pixel due to miscalculations
+
+Known issues:
+
+window resizers interfere with the titlebar too much, unintentionally resizing the window, when only wanting to move it around
+main window is not aware whether or not it is run in WACUP or not
+
+shade text in playlist editor is green as well as the background being white instead of black
 
 # v1.03.3
 What's New?
@@ -20,13 +27,6 @@ What's New?
 - Fixed: ctrl + v not working in the main window, was fixed by updating skin.xml from victhor's skin.xml file found within Winamp Classic Modern v1.03
 - Fixed: double click on EQ does not switch to shade as it should, was fixed by updating skin.xml from victhor's skin.xml file found within Winamp Classic Modern v1.03
 - Misc: Name change from Windows Classic Modern to Winamp 2000 SP4 x.xx.x
-
-Known issues:
-
-window resizers interfere with the titlebar too much, unintentionally resizing the window, when only wanting to move it around
-main window is not aware whether or not it is run in WACUP or not
-
-shade text in playlist editor is green as well as the background being white instead of black
 
 # v1.03.2
 Thanks to Victhor pointing most of these issues out
