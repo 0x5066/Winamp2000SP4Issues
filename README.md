@@ -6,7 +6,7 @@ What's New?
 
 - Added: Gammagroups that actually represent what Windows once had to offer with Windows Classic
 
-# v1.03.4 Upcoming
+# v1.03.4
 What's New?
 
 - Fixed: Resized the components by one pixel due to miscalculations
