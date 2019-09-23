@@ -13,6 +13,7 @@ What's New?
 
 - New: Adjusted Video window's info bar so it doesn't look like it's slapped on the spot
 - New: Proper Winamp and WACUP detection, program icon and name will change whether or not the skin is being used in Winamp/WACUP
+
 ~~- New: Aligned songinfo and actioninfo to the left instead of that being centered~~
 ~~- New: Reduced font size on the stereo/mono and songinfo display for UI consistency~~
 - Fixed: Odd pink coloring that was present on the main window under the WACUP about button (and some other areas which were hard to spot)
