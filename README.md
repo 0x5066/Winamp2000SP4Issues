@@ -4,7 +4,20 @@ i guess this is where the issues of the skin go here and its changelog
 # v1.03.??? Upcoming (Far future)
 What's New?
 
-- Added: Gammagroups that actually represent what Windows once had to offer with Windows Classic
+- New: Gammagroups that actually represent what Windows once had to offer with Windows Classic
+- New: Split up the image parts to allow for better color editing
+- New: Themes! Including those that were present in Windows 9x/2k/XP
+- New: Titlebar beam gradient can be colored independently
+
+# v1.03.5 Upcoming
+
+- New: Adjusted Video window's info bar so it doesn't look like it's slapped on the spot
+- New: Proper Winamp and WACUP detection, program icon and name will change whether or not the skin is being used in Winamp/WACUP
+~~- New: Aligned songinfo and actioninfo to the left instead of that being centered~~
+~~- New: Reduced font size on the stereo/mono and songinfo display for UI consistency~~
+- Fixed: Odd pink coloring that was present on the main window under the WACUP about button (and some other areas which were hard to spot)
+- Fixed: fixed every line containing "alpha="253"" by changing their value to "255"
+- (Hopefully) Fixed: Changed generic window background color to the same grey-ish color that other windows have (ugly hack for the color editor)
 
 # v1.03.4
 What's New?
