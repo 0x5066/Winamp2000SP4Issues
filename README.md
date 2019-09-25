@@ -48,13 +48,14 @@ What's New?
 Thanks to Victhor pointing most of these issues out
 What's New?
 
-- Fixed: Winamp/WACUP Preview playlist editor using the incorrect scrollbar and background color
 - Added: Horizontal cursor for resizing windows horizontally
+- Fixed: Winamp/WACUP Preview playlist editor using the incorrect scrollbar and background color
 - Fixed: Annoying grey gap found within the generic windows
 - Fixed: wrong positioning of the titlebar icon and text
 - Fixed: titlebar switcher not working in the main window
 - Fixed: wrong selection background color that was being consistently used
 - Removed: Color themes, no one needs them, they are bloat.
+
 Known issues:
 
 Playlist Editor being unable to emulate windows behaviour, thanks nullsoft, really loving that one
@@ -63,7 +64,7 @@ Modern Skin being unable to tile graphics, making it impossible to properly repl
 # v1.03.1
 What's New?
 
-Fixed: annoying black color that appeared whenever something used the alternate coloring thing, it was apparent when using WACUP playlists in the Media Library
+Fixed: annoying black color that appeared whenever something used the alternate coloring thing, it was apparent when using WACUP playlists in the Media Library (wasn't tied to WACUP as it turns out, as the alternate coloring every second item in the media library was also used in Winamp)
 
 # v1.03.0
 Initial release.
