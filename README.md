@@ -30,6 +30,7 @@ What's New?
 Known issues:
 
 window resizers interfere with the titlebar too much, unintentionally resizing the window, when only wanting to move it around
+
 main window is not aware whether or not it is run in WACUP or not
 
 shade text in playlist editor is green as well as the background being white instead of black
