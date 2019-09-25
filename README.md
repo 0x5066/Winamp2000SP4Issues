@@ -10,6 +10,7 @@ What's New?
 - New: Titlebar beam gradient can be colored independently
 
 # v1.03.5 Upcoming
+What's new?
 
 - New: Adjusted Video window's info bar so it doesn't look like it's slapped on the spot
 - New: Proper Winamp and WACUP detection, program icon and name will change whether or not the skin is being used in Winamp/WACUP
@@ -17,7 +18,8 @@ What's New?
 - ~~New: Reduced font size on the stereo/mono and songinfo display for UI consistency~~
 - Fixed: Odd pink coloring that was present on the main window under the WACUP about button (and some other areas which were hard to spot)
 - Fixed: fixed every line containing "alpha="253"" by changing their value to "255"
-- (Hopefully) Fixed: Changed generic window background color to the same grey-ish color that other windows have (ugly hack for the color editor)
+- Fixed: Changed generic window background color to the same grey-ish color that other windows have (ugly hack for the color editor)
+- Misc: Minor UI adjustments (repositioning of certain things)
 
 # v1.03.4
 What's New?
