@@ -59,6 +59,7 @@ What's New?
 Known issues:
 
 Playlist Editor being unable to emulate windows behaviour, thanks nullsoft, really loving that one
+
 Modern Skin being unable to tile graphics, making it impossible to properly replicate the checkerboard effect found within Windows 7 and below when running Windows Classic
 
 # v1.03.1
