@@ -9,7 +9,7 @@ What's New?
 - New: Themes! Including those that were present in Windows 9x/2k/XP
 - New: Titlebar beam gradient can be colored independently
 
-# v1.03.5 Upcoming
+# v1.03.5
 What's new?
 
 - New: Adjusted Video window's info bar so it doesn't look like it's slapped on the spot
