@@ -14,8 +14,9 @@ What's new?
 
 - New: Adjusted Video window's info bar so it doesn't look like it's slapped on the spot
 - New: Proper Winamp and WACUP detection, program icon and name will change whether or not the skin is being used in Winamp/WACUP
-- ~~New: Aligned songinfo and actioninfo to the left instead of that being centered~~
-- ~~New: Reduced font size on the stereo/mono and songinfo display for UI consistency~~
+- New: Aligned songinfo and actioninfo to the left instead of that being centered
+- New: Redone the songinfo area to look more like the adress bar in Windows XP's explorer (even includes a winamp icon as a nod to windows explorer)
+- New: Reduced font size on the stereo/mono, songinfo display and the shuffle button for UI consistency
 - Fixed: Odd pink coloring that was present on the main window under the WACUP about button (and some other areas which were hard to spot)
 - Fixed: fixed every line containing "alpha="253"" by changing their value to "255"
 - Fixed: Changed generic window background color to the same grey-ish color that other windows have (ugly hack for the color editor)
